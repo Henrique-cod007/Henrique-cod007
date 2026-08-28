@@ -10,10 +10,10 @@ aprendendo na prática através de projetos reais construídos em aula.
 
 ## Tecnologias que estou aprendendo
 
-![Git]https://www.python.org/static/community_logos/python-logo-generic.svg?utm_source=chatgpt.com
-![Git]https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg?utm_source=chatgpt.com
-![Git]https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg?utm_source=chatgpt.com
-![Git]https://www.w3.org/html/logo/downloads/HTML5_Badge.svg?utm_source=chatgpt.com
+![Git](https://www.python.org/static/community_logos/python-logo-generic.svg?utm_source=chatgpt.com)
+![Git](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg?utm_source=chatgpt.com)
+![Git](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg?utm_source=chatgpt.com)
+![Git](https://www.w3.org/html/logo/downloads/HTML5_Badge.svg?utm_source=chatgpt.com)
 ![Git](https://www.php.net/images/logos/new-php-logo.svg?utm_source=chatgpt.com)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
