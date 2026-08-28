@@ -10,11 +10,11 @@ aprendendo na prática através de projetos reais construídos em aula.
 
 ## Tecnologias que estou aprendendo
 
-![Git](https://www.python.org/static/community_logos/python-logo-generic.svg?utm_source=chatgpt.com)
-![Git](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg?utm_source=chatgpt.com)
-![Git](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg?utm_source=chatgpt.com)
-![Git](https://www.w3.org/html/logo/downloads/HTML5_Badge.svg?utm_source=chatgpt.com)
-![Git](https://www.php.net/images/logos/new-php-logo.svg?utm_source=chatgpt.com)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
